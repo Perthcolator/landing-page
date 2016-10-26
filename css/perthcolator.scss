@@ -7,7 +7,6 @@ $primary:             #0CA5B0;
 html,
 body {
   min-height: 100%;
-  font-size: 15px;
 }
 body {
   padding-top: 1rem;
@@ -25,6 +24,9 @@ p {
   line-height: 1.7rem;
   margin-bottom: 1.6em;
   font-size: 1rem;
+}
+li {
+  font-size: 1.25rem;
 }
 img.img-margin {
   margin-bottom: 2rem;
