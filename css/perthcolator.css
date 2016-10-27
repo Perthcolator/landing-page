@@ -25,6 +25,12 @@ p {
   font-size: 1rem;
 }
 
+.testimonial {
+  font-style: italic;
+}
+.author {
+  font-size: 1.25rem;
+}
 li {
   font-size: 1.25rem;
 }
